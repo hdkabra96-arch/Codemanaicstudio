@@ -1,0 +1,6 @@
+{
+  "name": "CodeManaic Studio",
+  "description": "CodeManaic Studio - A premium digital agency building high-converting, modern, and bespoke digital experiences, websites, e-commerce stores, and software automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
